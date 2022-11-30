@@ -7,11 +7,6 @@ A task and user management system for teams.
 The purpose of this project is to help teams manage projects by allowing managers allocate
 tasks to different team members and register new members.
 
-
-
-
-
-
 ## Features
 ### Admin
 - Register new users
@@ -33,13 +28,9 @@ tasks to different team members and register new members.
 
 ## Installation
 
-* [Install python](https://www.python.org/downloads/)
-* Run programm on cmd
-* Programm path
-
-```
-python taks_manager.py
-```
+#### Python
+* [Download Python](https://www.python.org/downloads/)
+* Run program with any Python IDE
     
 ## Authors
 
